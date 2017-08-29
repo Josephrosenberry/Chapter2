@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=Circle(double)
+comment0.text=\r\n\ Constructor\ method\ to\ create\ object\r\n\ @param\ r\ the\ radius\ of\ a\ circle\r\n
+comment1.params=
+comment1.target=double\ getArea()
+comment1.text=\r\n\ Function\ to\ calculate\ the\ area\ of\ the\ circle\r\n\ @return\ returns\ the\ area\ of\ a\ circle\ \r\n
+comment2.params=
+comment2.target=double\ getCircumference()
+comment2.text=\r\n\ Function\ to\ calculate\ the\ area\ of\ the\ circle\r\n\ @return\ returns\ the\ area\ of\ a\ circle\ \r\n
+numComments=3
