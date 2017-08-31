@@ -22,7 +22,7 @@ public class CircleTest
         Circle circle = new Circle(r);
         double area = circle.getArea();
         double circumference = circle.getCircumference();
-        System.out.println("radius = " + r + "units" + " \narea = " + area + "units");
+        System.out.println("radius = " + r + "units" + " \narea = " + area + " units");
         System.out.println("circumference = " + circumference + "units");
         System.out.println();
         /*
@@ -34,7 +34,7 @@ public class CircleTest
         Circle c2 = new Circle(r2); 
         area = c2.getArea();
         circumference = c2.getCircumference();
-        System.out.println("Circle 2: radius = " + r2 + "units" + " \narea = " + area + "units");
+        System.out.println("Circle 2: radius = " + r2 + "units" + " \narea = " + area + " units");
         System.out.println("circumference = " + circumference + "units" );
         System.out.println();
         /*
@@ -46,7 +46,7 @@ public class CircleTest
         Circle c3 = new Circle(r3);
         area = c3.getArea();
         circumference = c3.getCircumference();
-        System.out.println("Circle 3: radius = " + r3 + "units" + " \narea = " + area + "units");
+        System.out.println("Circle 3: radius = " + r3 + "units" + " \narea = " + area + " units");
         System.out.println("circumference = " + circumference + "units");
     }
 }
