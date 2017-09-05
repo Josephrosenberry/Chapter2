@@ -1,33 +1,18 @@
-
 /**
- * Write a description of class PlusTest here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Explain the uses of the + operator
+ * @author Joseph Rosenberry
+ * @version 9/4/2017
  */
 public class PlusTest
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class PlusTest
-     */
-    public PlusTest()
+    public static void main (String[] args)
     {
-        // initialise instance variables
-        x = 0;
-    }
-
-    /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
+        System.out.println ("\fThis is a long string that is the " +
+            "concatenation of two shorter strings.");
+        System.out.println ("The first computer was invented about " + 55 +
+            " years ago.");
+        System.out.println ("8 plus 5 is " + 8 + 5);
+        System.out.println ("8 plus 5 is " + (8 + 5));
+        System.out.println (8 + 5 + " equals 8 plus 5.");
     }
 }

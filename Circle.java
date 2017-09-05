@@ -5,7 +5,7 @@
  * @version August 29 2017
  * **************************************************************************
  */
-public class Circle
+public class Circle 
 {
     // data section
     private double radius;
@@ -38,4 +38,3 @@ public class Circle
         return Math.PI * 2.0 * radius;
     }
 }
-

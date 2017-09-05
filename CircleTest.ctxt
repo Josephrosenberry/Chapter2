@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment0.target=CircleTest
+comment0.text=\r\n\ This\ is\ the\ driver\ program\ to\ create\ Circle\ objects\r\n\ from\ the\ circle\ class.\r\n\ @author\ Joseph\r\n\ @version\ August\ 29,\ 2017\r\n\ ***********************************************************************************************************************\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

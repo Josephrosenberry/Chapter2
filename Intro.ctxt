@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment0.target=Intro
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Chapter\ 2\ here.\r\n\ \r\n\ @author\ Joseph\r\n\ @version\ 8/21/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
